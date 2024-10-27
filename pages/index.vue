@@ -10,7 +10,6 @@
         :class="prediction == 'red' ? 'bg-red-500' : 'bg-blue-500'"
         v-if="prediction"
       >
-        {{ prediction }}
       </div>
     </div>
 

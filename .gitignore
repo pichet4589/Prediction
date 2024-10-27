@@ -11,4 +11,4 @@ Thumbs.db
 # Ignore environment variable files
 .env
 
-.nuxt
+.nuxt/
